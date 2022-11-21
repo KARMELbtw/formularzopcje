@@ -1,0 +1,21 @@
+.container{
+    margin: 0, 20, 30, 20px;
+}
+body{
+    border: 1px, solid;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.line{
+    margin: 20px;
+}
+input[type=button]{
+    padding-top: 8px;
+    width: 120px;
+}
+button{
+    margin: 20px;
+    margin-left: 200px;
+    padding: 8px;
+    width: 120px;
+}
